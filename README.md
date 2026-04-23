@@ -1,4 +1,4 @@
-# ⛽ Fuel Station Fraud Analytics Dashboard
+# ⛽ FuelGuard — Fraud Detection & Customer Analytics Pipeline
 
 > End-to-end fraud detection pipeline — identified **27.5% fraud rate** & **16,200L under-dispensing** across 50 fuel stations using Python, PostgreSQL & Power BI
 
@@ -21,7 +21,7 @@ Fuel stations across India lose significant revenue due to **sensor-based fraud*
 ![Overview Dashboard](images/overview.png)
 
 ### Page 2 — Fraud & Stations Deep Dive
-![Fraud Deep Dive Dashboard](images/deep_dive.png)
+![Fraud Deep Dive Dashboard](images/fraud_deep_dive.png)
 
 ---
 
@@ -159,7 +159,7 @@ psycopg2-binary
 ## 👤 Author
 
 **Aditya Sharma**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/your-profile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/aditya-sharma-9b6588286/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/aditya-datahub)
 
 ---
